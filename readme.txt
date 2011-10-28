@@ -1,3 +1,6 @@
+
+Como modificar strings inmutables de Python:
+
 >>> import pymutestring
 >>> a = "Python"
 >>> id(a)
